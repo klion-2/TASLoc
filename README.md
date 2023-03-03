@@ -10,7 +10,7 @@ This is an official dataset for the paper "Towards Accurate Smartphone Localizat
 
 **Scenarios.** The first scenario covers a total area of $90m^2$ with some office furniture (i.e., cabinets, long desks and chairs) and includes 70 reference points (RPs) and 10 test points (TPs). In the second scenario, the size of meeting room is 8m $\times$ 7m, and it includes 49 RPs and 7 TPs. In both scenarios, we employ 400 CSI frames at each RP for training and 100 CSI frames at each TP for testing.
 
-**Devices.** We collect dataset using [Nexmon CSI Tool](https://github.com/seemoo-lab/nexmon_csi), and take Nexus 5 and Nexus 6P smartphones as receivers and an ASUS RT-AC86U WiFi router as a transmitter. The WiFi router operates at a central frequency of 5.745 GHz with a bandwidth of 80 MHz, which means that the number of CSI subcarriers is 256.
+**Devices.** We collect dataset using [Nexmon CSI Tool](https://github.com/seemoo-lab/nexmon_csi), and take Nexus 5 and Nexus 6P smartphones as receivers and an ASUS RT-AC86U WiFi router as a transmitter. The WiFi router operates at a central frequency of 5.745 GHz with a bandwidth of 80 MHz.
 
 In addition, more details of the experiment can be found in our paper.
 
