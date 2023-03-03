@@ -43,8 +43,8 @@ DATASET
 ```
 
 The main data can be found in *.mat* file,
-- 1 - 256 column show (256 subcarrier) amplitudes or phases.
-- 257 - 258 column show the location coordinates of the RPs or TPs.
+- data: 1 - 256 column show (256 subcarrier) amplitudes or phases.
+- loc: 1 - 2 column show the location coordinates of the RPs or TPs.
 
 ### Download dataset
 
