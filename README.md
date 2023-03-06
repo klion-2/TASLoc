@@ -43,7 +43,7 @@ DATASET
 ```
 
 The main data can be found in *.mat* file,
-- data: 1 - 256 column show (256 subcarrier) amplitudes or phases.
+- data: 1 - 256 column show (256 subcarrier) the collected CSI measurements using smartphones.
 - loc: 1 - 2 column show the location coordinates of the RPs or TPs.
 
 ### Download dataset
